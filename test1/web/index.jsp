@@ -10,9 +10,15 @@
 git first commit
 git second commit
 git commit3
-git commit4
+git commit3
+
+branch commit1
+branch commit2
+branch commit3
+branch commit4
 
 branch °¬´Ù°¡ ´Ù½Ã master·Î ¿È!!
 
 </body>
+
 </html>
